@@ -55,5 +55,7 @@ Essas são mpresas que usam em seu core de desenvolvimento mas temos outras que 
 - Bio Ritmo / Smart Fit ( Maior rede de academias da america latina )
 - AppProva
 
+## Editor de texto
+Para iniciar nossos estudos devemos ter um editor de texto, aconselho a utilizar o [Sublime Text](http://www.sublimetext.com/) porem você pode pesquisar outros que sejam mais agradável para você, tais como [Ruby Mine](https://www.jetbrains.com/ruby/), [VIM](http://www.vim.org/), [TextMate](http://macromates.com/), [Komodo](http://komodoide.com/) e [Emacs](https://www.gnu.org/software/emacs/).
 
 Consegui te convencer ? Então vamos codar :)
