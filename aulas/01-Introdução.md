@@ -4,9 +4,9 @@ Hello, World! Porque aprender a codar(programar)
 "Todas as pessoas nesse país deveriam aprender a programar um computador porque isso ensina você a pensar. " - **Steve Jobs**
 
 Meu primeiro contato com programação foi aos 14 anos de idade, jogando um MMORPG chamado Ragnarok.
-<center>
+<p align="center">
 	<img src="http://i.imgur.com/bhBSUjS.jpg"/>
-</center>
+</p>
 
 Certa vez um amigo foi em em casa e mostrou um servidor que ele tinha criado desse jogo.
 Pronto logo tive a vontade de criar meu servidor com minhas regas e meus NPC's(Personagem não jogável, aqueles que te ajudam a fazer missões ou vender itens).
