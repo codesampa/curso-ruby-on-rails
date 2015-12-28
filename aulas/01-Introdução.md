@@ -59,3 +59,5 @@ Essas são mpresas que usam em seu core de desenvolvimento mas temos outras que 
 Para iniciar nossos estudos devemos ter um editor de texto, aconselho a utilizar o [Sublime Text](http://www.sublimetext.com/) porem você pode pesquisar outros que sejam mais agradável para você, tais como [Ruby Mine](https://www.jetbrains.com/ruby/), [VIM](http://www.vim.org/), [TextMate](http://macromates.com/), [Komodo](http://komodoide.com/) e [Emacs](https://www.gnu.org/software/emacs/).
 
 Consegui te convencer ? Então vamos codar :)
+
+[Próxima aula - Começando em Ruby](https://github.com/codesampa/curso-ruby-on-rails/blob/master/aulas/02-Come%C3%A7ando%20em%20Ruby.md)
