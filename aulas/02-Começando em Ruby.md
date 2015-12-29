@@ -150,12 +150,15 @@ Para pegar o ano da fundação podemos avançar dentro de outro hash que está c
 	 => 1554 
 
 ## Operadores aritméticos
-- Adição +
-- Subtração - 
-- Multiplicação *
-- Divisão /
-- Módulo %
-- Exponente **
+
+Operador  | Função
+------------- | -------------
++ | Adição
+- | Subtração
+* | Multiplicação
+/ | Divisão
+% | Módulo
+** | Exponente
 
 
 Exemplos
