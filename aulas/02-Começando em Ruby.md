@@ -270,3 +270,19 @@ Exemplos
 	2.2.2 (main)> not(a && b)
 	=> false
 [Fonte em inglês](http://www.tutorialspoint.com/ruby/ruby_operators.htm)
+
+### Executando nossos programas
+Para executar um promagrama em ruby basta salvar o seu código com a extensão .rb<br/>
+Exemplo
+
+	puts "Essa é a mensagem a ser exibida"
+	
+Salve o arquivo como **hello.rb**	 e execute o mesmo rodando na pasta onde está o arquivo 
+	
+	ruby hello.rb
+	
+O resultado exibido na tela será:
+	
+	Essa é a mensagem a ser exibida
+ 
+> O comando deve ser executado na mesma pasta onde o arquivo foi salvo, para isso rode o comando `ls` no terminal para ver se o arquivo está presente no mesmo diretório
