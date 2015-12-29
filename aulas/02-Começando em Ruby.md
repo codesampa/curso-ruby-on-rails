@@ -178,16 +178,16 @@ Exemplos
 
 Operador  | Função
 ------------- | -------------
-== | Checa se o valor corresponde ao mesmo valor comparado(verifica se é idêntico), retornando true ou false
-!= | Checa se os valores são diferentes, retornando true ou false
-> | Verifica se o valor é maior que (se o valor da esquerda é maior que o da direita), retornando true ou false
-< | Verifica se o valor é menor que (se o valor da esquerda é menor que o da direita), retornando true ou false
->= | Verifica se o valor é menor que (se o valor da esquerda é menor que o da direita), retornando true ou false
-<= | Verifica se o valor é menor ou igual, retornando true ou false
-<=> | Operador de combinação. Retorna 0 se o primeiro operador for igual o segundo, 1 se o primeiro operador for maior que o segundo e -1 se o primeiro operador for menor que o segundo
-=== | Verifica se o objeto tem o mesmo valor e tipo de dados, retornando true ou false
-.eql? |  A mesma coisa que o item anterior
-.equal? | Retorna verdadeiro se o Objeto tiver o mesmo .object_id
+**==** | Checa se o valor corresponde ao mesmo valor comparado(verifica se é idêntico), retornando true ou false
+**!=** | Checa se os valores são diferentes, retornando true ou false
+**>** | Verifica se o valor é maior que (se o valor da esquerda é maior que o da direita), retornando true ou false
+**<** | Verifica se o valor é menor que (se o valor da esquerda é menor que o da direita), retornando true ou false
+**>=** | Verifica se o valor é menor que (se o valor da esquerda é menor que o da direita), retornando true ou false
+**<=** | Verifica se o valor é menor ou igual, retornando true ou false
+**<=>** | Operador de combinação. Retorna 0 se o primeiro operador for igual o segundo, 1 se o primeiro operador for maior que o segundo e -1 se o primeiro operador for menor que o segundo
+**===** | Verifica se o objeto tem o mesmo valor e tipo de dados, retornando true ou false
+**.eql?** |  A mesma coisa que o item anterior
+**.equal?** | Retorna verdadeiro se o Objeto tiver o mesmo .object_id
 
 Exemplos
 
@@ -225,12 +225,16 @@ Exemplos
 	=> 21
 
 ## Operadores lógicos
-**AND**, podemos ler como "E" se os dois operadores retornarem true então a condição é verdadeira<br/>
-**OR**, podemos ler como OU Se qualquer um dos dois operandos são diferentes de zero, então a condição se torna verdade.<br/>
-**&&** mesma coisa do operador AND<br/>
-**||** mesma coisa do Operador OR<br/>
-**!** Comprador negativo Ex: !(10 == 11) retorna true<br/>
-**not** Mesma coisa do ponto de esclamação
+
+Operador  | Função
+------------- | -------------
+**AND** | podemos ler como "E" se os dois operadores retornarem true então a condição é verdadeira
+**OR** | podemos ler como OU Se qualquer um dos dois operandos são diferentes de zero, então a condição se torna verdade
+**&&** | mesma coisa do operador AND
+**`||`**  | mesma coisa do Operador OR
+**!**  | Comprador negativo Ex: !(10 == 11) retorna true
+**not** | Mesma coisa do ponto de esclamação
+
 > OR e AND na verdade são diferentes de || e && <br/>
 > Você deve usar && e || para lógica boleana e and e or para fluxos de controle.
 
