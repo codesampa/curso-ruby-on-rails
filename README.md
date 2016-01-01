@@ -3,7 +3,7 @@ Aulas do curso de Ruy on Rails do [CodeSampa](http://codesampa.com.br/)
 
 ## Sumário
 #### Ruby
-- [01-Introdução](https://github.com/codesampa/curso-ruby-on-rails/blob/master/aulas/01-Introdu%C3%A7%C3%A3o.md)
+- [01-Introdução](/aulas/01-Introdução.md)
 
 ## Licença
 
