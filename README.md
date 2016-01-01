@@ -4,6 +4,10 @@ Aulas do curso de Ruy on Rails do [CodeSampa](http://codesampa.com.br/)
 ## Sumário
 #### Ruby
 - [01-Introdução](/aulas/01-Introdução.md)
+- [02-Começando em Ruby](/aulas/02-Começando-em-Ruby.md)
+- [03-Estruturas-de-Controle](/aulas/03-Estruturas-de-Controle.md)
+- [04-Métodos](/aulas/04-Metodos.md)
+- [05-O Básico a Orientação a objetos](/aulas/05-O-básico-de-orientação-a-objetos.md)
 
 ## Licença
 
